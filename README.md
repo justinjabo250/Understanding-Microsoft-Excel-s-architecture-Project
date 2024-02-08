@@ -1,0 +1,2 @@
+# Understanding-Microsoft-Excel-s-architecture-Project
+Subjected and experience with Microsoft Excel. The project aims to comprehend Microsoft Excel's internal functionality and operations. Thus, these are the primary ideas in text that we will study and reread in greater detail as well as acquire pertinent knowledge and abilities linked to these crucially important key phrases: Fundamentals Use Excel.
