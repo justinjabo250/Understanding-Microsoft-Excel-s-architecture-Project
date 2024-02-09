@@ -61,7 +61,8 @@ whereas rows are the horizontal portion, and there can be 1048576 of them.
   
   In Excel, we can use formulas simply by typing “=Formula Name(Arguments)” to use predefined Excel formulas.
 
-  Here i have included Some of the commonly used formulas here:
+
+  I've listed a few of the often used formulas here:
 
 . =SUM(Arg1: Arg2): It is used to find the sum of all the numeric data specified in the given range of numbers.
 . =COUNT(Arg1: Arg2):  It is used to count all the number of cells(it will count only number) specified in the given range of numbers.
@@ -85,19 +86,22 @@ whereas rows are the horizontal portion, and there can be 1048576 of them.
 
   It is the most commonly used feature of the spreadsheet. Using this table users can organize, group, total, or sort data using the toolbar. Or in other words, pivot tables are used to summarize lots of data. It converts tons of data into a few rows and columns.
 
+
 - [Text Manipulation](#Text-Manipulation)
 
   The use of Spreadsheets is endless. It is generally used with anything that contains numbers. Some of the common use of spreadsheets are:
 
-. Finance: Spreadsheets are used for financial data like it is used for checking account information, taxes, transaction, billing, budgets, etc.
-. Forms: A spreadsheet is used to create form templates to manage performance review, timesheets, surveys, etc.
-. School and colleges: Spreadsheets are most commonly used in schools and colleges to manage student’s data like their attendance, grades, etc.
-. Lists: Spreadsheets are also used to create lists like grocery lists, to-do lists, contact detail, etc.
-. Hotels: Spreadsheets are also used in hotels to manage the data of their customers like their personal information, room numbers, check-in date, check-out date, etc.
+. Finance: Spreadsheets are used for organizing & to track financial data, such as account details, taxes, transactions, bills, budgeting, and etc.
+. Forms: Form templates are created in a spreadsheet and used to manage surveys, timesheets, performance reviews, and other tasks.
+. School and colleges: Spreadsheets are most frequently used in schools, colleges and universities to handle student data, including grades and attendance.
+. Lists: Furthermore, lists like grocery lists, to-do lists, contact details..., can be made using spreadsheets.
+. Hotels: Hotels also employ and utilize spreadsheets to handle client data, including personal details, room numbers, check-in and check-out dates, etc.
+
 
 - [Components of Spreadsheets](#Components-of-Spreadsheets)
   
-  The basic components of spreadsheets are:
+  Spreadsheets' fundamental parts are:
+  
   
   <p align="center">
   <img src="https://private-user-images.githubusercontent.com/115732734/303491030-73849fab-63bc-4c6b-842a-2bfa0f078916.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDc0Mjg4NTYsIm5iZiI6MTcwNzQyODU1NiwicGF0aCI6Ii8xMTU3MzI3MzQvMzAzNDkxMDMwLTczODQ5ZmFiLTYzYmMtNGM2Yi04NDJhLTJiZmEwZjA3ODkxNi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIwOFQyMTQyMzZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03ODJlYWU5YmFlYTExZWQ5MTFiZmJjYTJlZTdhMWRmZWQ4OTUzZTg0MzA4YTExOTM3NzhlZTk5OWM2MTZhY2FmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.YEPmD7ZvnKusgCMlgJG__hjMSi5gu9YqMazUEtDeXbM"  alt="ExpressorLogo" width="700">
@@ -107,5 +111,4 @@ whereas rows are the horizontal portion, and there can be 1048576 of them.
 - [This is the link where you could read and founf more details.](https://www.geeksforgeeks.org/introduction-to-excel-spreadsheet/)
 
 
-https://www.geeksforgeeks.org/introduction-to-excel-spreadsheet/
 
