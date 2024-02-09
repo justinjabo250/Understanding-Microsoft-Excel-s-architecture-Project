@@ -91,11 +91,11 @@ whereas rows are the horizontal portion, and there can be 1048576 of them.
 
   The use of Spreadsheets is endless. It is generally used with anything that contains numbers. Some of the common use of spreadsheets are:
 
-. Finance: Spreadsheets are used for organizing & to track financial data, such as account details, taxes, transactions, bills, budgeting, and etc.
-. Forms: Form templates are created in a spreadsheet and used to manage surveys, timesheets, performance reviews, and other tasks.
-. School and colleges: Spreadsheets are most frequently used in schools, colleges and universities to handle student data, including grades and attendance.
-. Lists: Furthermore, lists like grocery lists, to-do lists, contact details..., can be made using spreadsheets.
-. Hotels: Hotels also employ and utilize spreadsheets to handle client data, including personal details, room numbers, check-in and check-out dates, etc.
+            - [Finance](#Finance): Spreadsheets are used for organizing & to track financial data, such as account details, taxes, transactions, bills, budgeting, and etc.
+            - [Forms](#Forms): Form templates are created in a spreadsheet and used to manage surveys, timesheets, performance reviews, and other tasks.
+            - [School and colleges](#School and colleges): Spreadsheets are most frequently used in schools, colleges and universities to handle student data, including grades and attendance.
+            - [Lists](#Lists): Furthermore, lists like grocery lists, to-do lists, contact details..., can be made using spreadsheets.
+            - [Hotels](#Hotels): Hotels also employ and utilize spreadsheets to handle client data, including personal details, room numbers, check-in and check-out dates, etc.
 
 
 - [Components of Spreadsheets](#Components-of-Spreadsheets)
